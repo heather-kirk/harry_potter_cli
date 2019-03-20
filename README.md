@@ -1,6 +1,6 @@
-# TravelCli
+# Harry Potter CLI 
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/travel_cli`. To experiment with that code, run `bin/console` for an interactive prompt.
+Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/harry_potter`. To experiment with that code, run `bin/console` for an interactive prompt.
 
 TODO: Delete this and the text above, and describe your gem
 
@@ -9,7 +9,7 @@ TODO: Delete this and the text above, and describe your gem
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'travel_cli'
+gem 'harry_potter'
 ```
 
 And then execute:
@@ -18,11 +18,11 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install travel_cli
+    $ gem install harry_potter
 
 ## Usage
 
-TODO: Write usage instructions here
+If you want to check out Bloomsbury's latest illustrated novels for Harry Potter, you've come to the right place! Simply follow the prompts by choosing from the list of illustrated editions to receive more knowledge about the illustrator, price, and more. 
 
 ## Development
 
@@ -40,4 +40,4 @@ The gem is available as open source under the terms of the [MIT License](https:/
 
 ## Code of Conduct
 
-Everyone interacting in the TravelCli project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/'dashing-scope-8453'/travel_cli/blob/master/CODE_OF_CONDUCT.md).
+Everyone interacting in the Harry Potter CLI project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/'dashing-scope-8453'/travel_cli/blob/master/CODE_OF_CONDUCT.md).
