@@ -12,10 +12,8 @@ class HP::CLI
   
   def list_books
     HP::Book.all.each_with_index do |new_book, i|
-      
-    puts "#{i +1}. #{new_book.title}"
-   
-   end 
+      puts "#{i +1}. #{new_book.title}"
+    end 
   end 
   
   def menu
