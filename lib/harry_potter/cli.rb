@@ -29,8 +29,7 @@ class HP::CLI
     list_books
     elsif input == "exit"
      goodbye
-     elsif input.to_i-1 <= HP::Book.all.size
-     binding.pry 
+     elsif input.to_i.between?(1, HP::Book.all.length)
       new_book = HP::Book.all[input.to_i-1]
       puts new_book.title
       puts new_book.author
